@@ -1,0 +1,12 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="Oracle - @127.0.0.1" uuid="ccc82140-1c8a-4686-8df2-fb1497d5b0f1">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@127.0.0.1:1521:xe</jdbc-url>
+      <default-dialect>Oracle</default-dialect>
+      <vm-options>-Doracle.jdbc.territoryMap=&quot;ru=RUSSIA;RU=RUSSIA&quot;</vm-options>
+    </data-source>
+  </component>
+</application>
